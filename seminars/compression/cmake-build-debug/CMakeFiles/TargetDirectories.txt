@@ -1,0 +1,3 @@
+/Users/aleksejshevcenko/Desktop/2_October/Task_1_Compression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksejshevcenko/Desktop/2_October/Task_1_Compression/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksejshevcenko/Desktop/2_October/Task_1_Compression/cmake-build-debug/CMakeFiles/Task_1_Compression.dir

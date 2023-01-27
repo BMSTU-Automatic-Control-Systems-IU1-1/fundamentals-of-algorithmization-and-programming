@@ -1,0 +1,3 @@
+/Users/aleksejshevcenko/Desktop/2_October/Task_0_Determing_of_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksejshevcenko/Desktop/2_October/Task_0_Determing_of_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksejshevcenko/Desktop/2_October/Task_0_Determing_of_time/cmake-build-debug/CMakeFiles/Task_0_Determing_of_time.dir
